@@ -7,4 +7,8 @@ public class App
     {
         System.out.println( "This is main page for voting appliation" );
     }
+    
+    public static void test() {
+    	System.out.println("This is test method");
+    }
 }
