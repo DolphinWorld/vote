@@ -12,4 +12,8 @@ public class App
     public static void test() {
     	System.out.println("This is test method");
     }
+    
+    public static String getDate() {
+    	return System.currentTimeMillis() + " ms";
+    }
 }
