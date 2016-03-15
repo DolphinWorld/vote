@@ -6,6 +6,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "This is main page for voting appliation" );
+        System.out.println("test test");
     }
     
     public static void test() {
